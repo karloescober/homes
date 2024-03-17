@@ -1,0 +1,89 @@
+body{
+    font-family: cursive;
+    background-color: #fef5dd;
+    color: #000000;
+}
+
+p {
+  text-align: justify;
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-left: 40px;
+  text-indent: 50px;
+}
+
+h1 {
+    font-size: 35px; 
+    text-align: center; 
+    margin-left: 0px; 
+    text-shadow: 2px 2px 5px gray; 
+    letter-spacing:3px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+h5 {
+    font-size: 13px; 
+    text-align: center; 
+    margin-right: -100px;
+}
+
+h2 {
+    text-shadow: 2px 2px 5px gray;
+    Font-family: cursive; 
+    Color: black; 
+    margin-left: 0px; 
+    text-align: left;
+}
+
+.Line {
+    margin-bottom: 15px;
+}
+
+#Button {
+    margin: -45px 5px 0px 1600px;
+    background: linear-gradient(120deg,#f2f5dd,#000000);
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.Nxt {
+    margin: -28px 30px 0px 1480px;
+}
+
+#NxtPage {
+    background: linear-gradient(120deg,#f2f5dd,#000000);
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.Prev {
+    margin: -28px 10px 5px 1385px;
+}
+
+#Prev {
+    background: linear-gradient(120deg,#f2f5dd,#000000);
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    cursor: pointer;
+}

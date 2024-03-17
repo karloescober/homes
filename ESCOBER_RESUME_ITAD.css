@@ -1,0 +1,172 @@
+body {
+    background-color: #f2f5dd;
+    color: #000000;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 5px 8px 100px black;
+}
+
+.Profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.Profile img {
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    border-radius: 20%;
+    margin-right: 200px;
+}
+
+.Skills {
+    margin: -125px 30px 50px 420px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Skills {
+    margin-top: -5px;
+    margin-left: 1px;
+}
+
+.wrapper {
+    display: flex;
+    margin: -112px 30px 10px 380px;
+}
+
+#wrapper {
+    list-style:none; 
+    height: 120px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; 
+    border-right: 1px solid;
+    margin-top: -5px;
+    margin-left: 1px;   
+}
+
+.Hobbies {
+    margin: -200px 30px 100px 420px;
+}
+
+#Hobbies {
+    margin-top: -5px;
+    margin-left: 1px;
+}
+
+.Training {
+    margin: -333px 30px 300px 400px;
+}
+
+#Training {
+    margin-top: -5px;
+    margin-left: 1px;
+}
+
+h1, h6{
+    text-shadow: 2px 2px 5px gray;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    text-align: center;
+}
+hr {
+    height: 1px;
+    border: none;
+    margin-bottom: 0px;
+    background-color: #000000;
+    margin-bottom: 15px;
+    margin-top: -2px;
+}
+
+p {
+    text-align: justify;
+    font-family: sans-serif;
+    line-height: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+blockquote {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-left: 25px;
+}
+
+h5 {
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-left: 23px;
+}
+
+h2 {
+    text-shadow: 2px 2px 5px gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#Button {
+    margin: 5px 5px 5px 1600px;
+    background: linear-gradient(120deg,#f2f5dd,#000000);
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.Nxt {
+    margin: -22px 30px 0px 1480px;
+}
+
+#NxtPage {
+    background: linear-gradient(120deg,#f2f5dd,#000000);
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.Prev {
+    margin: -22px 10px 5px 1370px;
+}
+
+#Prev {
+    background: linear-gradient(120deg,#f2f5dd,#000000);
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    cursor: pointer;
+}
